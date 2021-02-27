@@ -1,7 +1,5 @@
 package ui;
 
-import java.util.Scanner;
-
 import org.testng.annotations.Test;
 
 public class LoginPage {
